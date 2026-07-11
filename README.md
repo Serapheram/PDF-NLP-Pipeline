@@ -73,6 +73,40 @@ Trains Naive Bayes and Logistic Regression on TF-IDF features across all three n
 
 ---
 
+---
+
+## Graphs and Visualizations
+
+### Top Word Frequency
+![Top Word Frequency](graph_top_words.png)
+
+### Unigram Frequency
+![Unigram Frequency](graph_unigram_freq.png)
+
+### Bigram Frequency
+![Bigram Frequency](graph_bigram_freq.png)
+
+### Trigram Frequency
+![Trigram Frequency](graph_trigram_freq.png)
+
+### CBOW vs Skip-gram Comparison, Unigram
+![CBOW vs Skip-gram Unigram](graph_cbow_vs_skipgram_unigram.png)
+
+### CBOW vs Skip-gram Comparison, Bigram
+![CBOW vs Skip-gram Bigram](graph_cbow_vs_skipgram_bigram.png)
+
+### CBOW vs Skip-gram Comparison, Trigram
+![CBOW vs Skip-gram Trigram](graph_cbow_vs_skipgram_trigram.png)
+
+### Classification Model Comparison
+![Model Comparison](graph_model_comparison.png)
+
+### Confusion Matrix, Best Model
+![Confusion Matrix](graph_confusion_matrix.png)
+
+### K-means Clustering, PCA Visualization
+![K-means PCA](graph_kmeans_pca.png)
+
 ## Results Summary
 
 - The corpus contained 11 usable documents across 3 categories after cleaning, with one PDF skipped due to being a scanned image with no extractable text
