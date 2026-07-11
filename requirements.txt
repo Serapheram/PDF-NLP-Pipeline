@@ -1,0 +1,6 @@
+pymupdf
+nltk
+gensim
+scikit-learn
+matplotlib
+numpy
